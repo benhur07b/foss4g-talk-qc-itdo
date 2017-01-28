@@ -1,0 +1,31 @@
+.choices {
+	color: black;
+	text-align: left;
+	font-size: 24px;
+}
+
+.wrongChoice {
+	color: #555555;
+	font-size: 24px;
+	text-align: left;
+	text-decoration: line-through;
+	
+}
+
+.rightChoice {
+	color: red;
+	font-size: 24px;
+	text-align: left;
+}
+
+.explain {
+	color: black;
+	font-size: 28px;
+	text-align: left;
+}
+
+.canon {
+	color: black;
+	font-size: 32px;
+	text-align: left;
+}
